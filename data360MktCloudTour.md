@@ -6,23 +6,23 @@ Ordem sugerida para uma pessoa sem experiência, priorizando fundamentos de dado
 
 | Ordem | Módulo / Trilha | Tipo | Link |
 |---|---|---|---|
-| 1 | Data Management Fundamentals | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-management-fundamentals?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 2 | Data Profiling Fundamentals | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-profiling-fundamentals?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 3 | Data Cleanup Fundamentals | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cleanup-fundamentals?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 4 | Explore Data Quality Fundamentals | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/explore-data-quality-fundamentals?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 5 | Comunicação com gráficos | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-visualization-communication?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 6 | Diretrizes para reconhecer gráficos que induzem ao erro | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/misleading-charts-guidelines?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 7 | Estratégias de arquitetura de big data | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/big-data-architecture-strategies?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 8 | Data Integrations | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-integrations?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 9 | Conectores para integração de dados | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-integration-connectors?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 10 | Quick Start: Salesforce Connect | Projeto | [Abrir projeto](https://trailhead.salesforce.com/pt-BR/content/learn/projects/quickstart-salesforce-connect?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 11 | Noções básicas do Agentforce 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/agentforce-360-basics?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 12 | Salesforce Data 360: início rápido | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/salesforce-data-360-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 13 | Noções básicas do Data 360 para profissionais de marketing | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/customer-360-audiences-basics?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 14 | Data 360: Explore the Data Landscape | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-explore-the-data-landscape?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 15 | Data 360: Prepare for Success | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-prepare-for-success?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 16 | Data 360: Build a Solid Foundation | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-build-a-solid-foundation?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 17 | Data 360: Discover the Value | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-discover-the-value?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
+| 1 | Data Management Fundamentals | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-management-fundamentals) |
+| 2 | Data Profiling Fundamentals | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-profiling-fundamentals) |
+| 3 | Data Cleanup Fundamentals | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cleanup-fundamentals) |
+| 4 | Explore Data Quality Fundamentals | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/explore-data-quality-fundamentals) |
+| 5 | Comunicação com gráficos | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-visualization-communication) |
+| 6 | Diretrizes para reconhecer gráficos que induzem ao erro | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/misleading-charts-guidelines) |
+| 7 | Estratégias de arquitetura de big data | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/big-data-architecture-strategies) |
+| 8 | Data Integrations | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-integrations) |
+| 9 | Conectores para integração de dados | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-integration-connectors) |
+| 10 | Quick Start: Salesforce Connect | Projeto | [Abrir projeto](https://trailhead.salesforce.com/pt-BR/content/learn/projects/quickstart-salesforce-connect) |
+| 11 | Noções básicas do Agentforce 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/agentforce-360-basics) |
+| 12 | Salesforce Data 360: início rápido | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/salesforce-data-360-quick-look) |
+| 13 | Noções básicas do Data 360 para profissionais de marketing | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/customer-360-audiences-basics) |
+| 14 | Data 360: Explore the Data Landscape | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-explore-the-data-landscape) |
+| 15 | Data 360: Prepare for Success | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-prepare-for-success) |
+| 16 | Data 360: Build a Solid Foundation | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-build-a-solid-foundation) |
+| 17 | Data 360: Discover the Value | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-discover-the-value) |
 
 ## Trilha Data Cloud — Nível Intermediário
 
@@ -30,36 +30,36 @@ Ordem sugerida para uma pessoa sem experiência, priorizando fundamentos de dado
 
 | Ordem | Módulo / Trilha | Tipo | Link |
 |---|---|---|---|
-| 1 | Criar uma estratégia de dados para o Data Cloud | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/build-a-cdp-data-strategy?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 2 | Configuração do Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/customer-360-audiences-for-admins?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 3 | Explorar o Data Cloud | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/explore-customer-360-audiences?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 4 | Administrar o Data 360 | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/administer-customer-data-platform?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 5 | Modelagem de dados no Data Cloud | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/model-data-in-customer-data-platform?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 6 | Modelo de dados do Customer 360 para o Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/customer-360-data-model-for-customer-360-audiences?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 7 | Aprimorar dados no Data Cloud | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/enhance-data-in-customer-data-platform?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 8 | Dados e identidade no Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-and-identity-in-customer-360-audiences?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 9 | Data 360: Connect and Unify | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-connect-and-unify?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 10 | Data 360: Query and Segment | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-query-and-segment?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 11 | Data 360: Govern and Secure | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-govern-and-secure?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 12 | Data 360: Act on Data | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-act-on-data?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 13 | Data 360: Analyze and Predict | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-analyze-and-predict?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 14 | Data 360: Transform Customer Experiences | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-transform-customer-experiences?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 15 | Data 360: Process Content | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-process-content?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 16 | Data 360 Governance: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-governance-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 17 | Data 360 Credit Consumption: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-credit-consumption-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 18 | Consumption-Based Products: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/consumption-based-products-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 19 | Espaços de dados no Data 360: início rápido | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-spaces-in-data-360-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 20 | Tipos de índices de pesquisa no Data 360: Visualização rápida | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/search-index-types-in-data-360-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 21 | Fully Qualified Keys in Data 360: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/fully-qualified-keys-in-data-360-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 22 | Criador de insights no Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/insight-builder-in-data-360?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 23 | Insights da Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-insights?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 24 | Insights do Data 360 usando o SQL | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-insights-using-sql?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 25 | Explore Data 360 Core Functionality | Projeto | [Abrir projeto](https://trailhead.salesforce.com/pt-BR/content/learn/projects/explore-data-360-core-functionality?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 26 | Advertising with Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/advertising-with-data-360?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 27 | Web Engagement in Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/web-engagement-data-in-data-cloud?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 28 | Data 360-Driven Interactions in Marketing Cloud Engagement | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-driven-interactions-in-marketing-cloud-engagement?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 29 | Data 360 Enrichments | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-enrichments?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 30 | Data 360 Connectors and Integrations | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-connectors-and-integrations?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
+| 1 | Criar uma estratégia de dados para o Data Cloud | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/build-a-cdp-data-strategy) |
+| 2 | Configuração do Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/customer-360-audiences-for-admins) |
+| 3 | Explorar o Data Cloud | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/explore-customer-360-audiences) |
+| 4 | Administrar o Data 360 | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/administer-customer-data-platform) |
+| 5 | Modelagem de dados no Data Cloud | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/model-data-in-customer-data-platform) |
+| 6 | Modelo de dados do Customer 360 para o Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/customer-360-data-model-for-customer-360-audiences) |
+| 7 | Aprimorar dados no Data Cloud | Trilha | [Abrir trilha](https://trailhead.salesforce.com/pt-BR/content/learn/trails/enhance-data-in-customer-data-platform) |
+| 8 | Dados e identidade no Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-and-identity-in-customer-360-audiences) |
+| 9 | Data 360: Connect and Unify | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-connect-and-unify) |
+| 10 | Data 360: Query and Segment | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-query-and-segment) |
+| 11 | Data 360: Govern and Secure | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-govern-and-secure) |
+| 12 | Data 360: Act on Data | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-act-on-data) |
+| 13 | Data 360: Analyze and Predict | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-analyze-and-predict) |
+| 14 | Data 360: Transform Customer Experiences | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-transform-customer-experiences) |
+| 15 | Data 360: Process Content | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-process-content) |
+| 16 | Data 360 Governance: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-governance-quick-look) |
+| 17 | Data 360 Credit Consumption: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-credit-consumption-quick-look) |
+| 18 | Consumption-Based Products: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/consumption-based-products-quick-look) |
+| 19 | Espaços de dados no Data 360: início rápido | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-spaces-in-data-360-quick-look) |
+| 20 | Tipos de índices de pesquisa no Data 360: Visualização rápida | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/search-index-types-in-data-360-quick-look) |
+| 21 | Fully Qualified Keys in Data 360: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/fully-qualified-keys-in-data-360-quick-look) |
+| 22 | Criador de insights no Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/insight-builder-in-data-360) |
+| 23 | Insights da Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-insights) |
+| 24 | Insights do Data 360 usando o SQL | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-insights-using-sql) |
+| 25 | Explore Data 360 Core Functionality | Projeto | [Abrir projeto](https://trailhead.salesforce.com/pt-BR/content/learn/projects/explore-data-360-core-functionality) |
+| 26 | Advertising with Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/advertising-with-data-360) |
+| 27 | Web Engagement in Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/web-engagement-data-in-data-cloud) |
+| 28 | Data 360-Driven Interactions in Marketing Cloud Engagement | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-driven-interactions-in-marketing-cloud-engagement) |
+| 29 | Data 360 Enrichments | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-enrichments) |
+| 30 | Data 360 Connectors and Integrations | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-connectors-and-integrations) |
 
 
 ## Trilha Data Cloud — Nível Avançado
@@ -69,28 +69,28 @@ Ordem sugerida para uma pessoa sem experiência, priorizando fundamentos de dado
 
 | Ordem | Módulo / Trilha | Tipo | Link |
 |---|---|---|---|
-| 1 | Data Processing Engine Basics | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-processing-engine-basics?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 2 | Batch Data Transforms in Data 360: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/batch-data-transforms-in-data-360-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 3 | Transformações de dados de streaming no Data 360: início rápido | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/streaming-data-transforms-in-data-360-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 4 | Real-Time Use Cases in Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/real-time-use-cases-in-data-360?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 5 | Data Graphs in Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-graphs-in-data-360?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 6 | Data 360 with Zero Copy | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-with-zero-copy?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 7 | Data Governance Strategies | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-governance-strategies?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 8 | Dados não estruturados no Data 360 | Projeto | [Abrir projeto](https://trailhead.salesforce.com/pt-BR/content/learn/projects/unstructured-data-in-data-360?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 9 | Grandes modelos de linguagem | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/large-language-models-basics?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 10 | Ajuste de modelos | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/model-fine-tuning-basics?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 11 | Criar modelos de IA no Einstein Studio | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/build-ai-models-in-einstein-studio?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 12 | Predictive Outputs from Model Builder | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/predictive-outputs-from-model-builder?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 13 | Agentforce alimentado pelo Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-powered-agentforce?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 14 | Conectar o Data 360 para Agentforce | Projeto | [Abrir projeto](https://trailhead.salesforce.com/pt-BR/content/learn/projects/connect-data-360-for-agentforce?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 15 | Tableau Next: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/tableau-next-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 16 | Workspaces and Data Connections in Tableau Next: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/workspaces-and-data-connections-in-tableau-next-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 17 | Semantic Model Optimization for Analysis in Tableau Next | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/semantic-model-optimization-for-analysis-in-tableau-next?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 18 | Metrics in Tableau Next | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/metrics-in-tableau-next?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 19 | Data Presentation in Tableau | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-presentation-in-tableau?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 20 | Tableau Agent: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/tableau-agent-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 21 | Agentforce for Analytics in Tableau Next: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/agentforce-for-analytics-in-tableau-next-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
-| 22 | Data Cloud One | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-one-quick-look?trailmix_creator_id=marika&trailmix_slug=data-cloud) |
+| 1 | Data Processing Engine Basics | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-processing-engine-basics) |
+| 2 | Batch Data Transforms in Data 360: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/batch-data-transforms-in-data-360-quick-look) |
+| 3 | Transformações de dados de streaming no Data 360: início rápido | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/streaming-data-transforms-in-data-360-quick-look) |
+| 4 | Real-Time Use Cases in Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/real-time-use-cases-in-data-360) |
+| 5 | Data Graphs in Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-graphs-in-data-360) |
+| 6 | Data 360 with Zero Copy | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-360-with-zero-copy) |
+| 7 | Data Governance Strategies | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-governance-strategies) |
+| 8 | Dados não estruturados no Data 360 | Projeto | [Abrir projeto](https://trailhead.salesforce.com/pt-BR/content/learn/projects/unstructured-data-in-data-360) |
+| 9 | Grandes modelos de linguagem | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/large-language-models-basics) |
+| 10 | Ajuste de modelos | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/model-fine-tuning-basics) |
+| 11 | Criar modelos de IA no Einstein Studio | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/build-ai-models-in-einstein-studio) |
+| 12 | Predictive Outputs from Model Builder | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/predictive-outputs-from-model-builder) |
+| 13 | Agentforce alimentado pelo Data 360 | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-powered-agentforce) |
+| 14 | Conectar o Data 360 para Agentforce | Projeto | [Abrir projeto](https://trailhead.salesforce.com/pt-BR/content/learn/projects/connect-data-360-for-agentforce) |
+| 15 | Tableau Next: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/tableau-next-quick-look) |
+| 16 | Workspaces and Data Connections in Tableau Next: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/workspaces-and-data-connections-in-tableau-next-quick-look) |
+| 17 | Semantic Model Optimization for Analysis in Tableau Next | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/semantic-model-optimization-for-analysis-in-tableau-next) |
+| 18 | Metrics in Tableau Next | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/metrics-in-tableau-next) |
+| 19 | Data Presentation in Tableau | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-presentation-in-tableau) |
+| 20 | Tableau Agent: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/tableau-agent-quick-look) |
+| 21 | Agentforce for Analytics in Tableau Next: Quick Look | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/agentforce-for-analytics-in-tableau-next-quick-look) |
+| 22 | Data Cloud One | Módulo | [Abrir módulo](https://trailhead.salesforce.com/pt-BR/content/learn/modules/data-cloud-one-quick-look) |
 
 ## Journey Builder
 
@@ -219,6 +219,3 @@ Ordem sugerida para uma pessoa sem experiência, priorizando fundamentos de dado
 | -- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
 | 14 | Otimize e aumente seu uso do Marketing Cloud Engagement (trilha) | https://trailhead.salesforce.com/pt-BR/content/learn/trails/optimize-and-grow-your-use-of-marketing-cloud-engagement |
 | 15 | Implementação do Marketing Cloud Advertising                     | https://trailhead.salesforce.com/pt-BR/content/learn/modules/advertising-studio-implementation                       |
-
-
-
